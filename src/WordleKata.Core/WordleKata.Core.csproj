@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\WordleKata.Data\WordleKata.Data.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="System.Linq.Async" Version="6.0.1" />
   </ItemGroup>
 
